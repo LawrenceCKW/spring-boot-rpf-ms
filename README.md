@@ -28,3 +28,18 @@
 
 ### 7. add [github workflow actions](https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions)
 - [x] added .github/workflows/experience-svc.yml
+
+### 8. add [Taskfile.yml file](https://taskfile.dev/)
+- [x] added Taskfile.yml to automatic frequently used commands.
+
+| Task Name     | What it does                                      |
+|:--------------|:--------------------------------------------------|
+| default       | Runs `task test`                                  |
+| test          | Depends on `format`, then runs `mvn clean verify` |
+| format        | Runs `spotless:apply` (code formatter)            |
+| build         | Runs `mvn verify`                                 |
+| start_infra   | `docker compose up -d` with your infra file       |
+| stop_infra    | Stops and removes your infra                      |
+| restart_infra | Stops, sleeps, then starts infra again            |
+| sleep         | Waits for a duration (default 5s)                 |
+
