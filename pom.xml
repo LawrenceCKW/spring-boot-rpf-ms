@@ -20,7 +20,7 @@
 
     <modules>
         <!-- List your microservices here -->
-<!--        <module>user-service</module>-->
+        <module>experience-svc</module>
         <!-- Add more services as needed -->
     </modules>
 </project>
