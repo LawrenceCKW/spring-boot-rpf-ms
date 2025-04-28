@@ -26,4 +26,5 @@
 ### 6. update application.properties
 - [x] add datasource configuration
 
-### 7. [add github workflow actions](https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions)
+### 7. add [github workflow actions](https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions)
+- [x] added .github/workflows/experience-svc.yml
