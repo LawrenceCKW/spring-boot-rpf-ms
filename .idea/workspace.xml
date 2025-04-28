@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="4e08ef95-ba66-4b5d-930e-578ba1491ce2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
-=======
     <list default="true" id="4e08ef95-ba66-4b5d-930e-578ba1491ce2" name="Changes" comment="" />
->>>>>>> experience-svc
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,11 +50,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "Spring Boot.ExperienceSvcApplication.executor": "Run",
     "Spring Boot.TestExperienceSvcApplication.executor": "Run",
-<<<<<<< HEAD
     "git-widget-placeholder": "main",
-=======
-    "git-widget-placeholder": "experience-svc",
->>>>>>> experience-svc
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -135,11 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745823204676</updated>
-<<<<<<< HEAD
-      <workItem from="1745823206063" duration="25436000" />
-=======
-      <workItem from="1745823206063" duration="23276000" />
->>>>>>> experience-svc
+      <workItem from="1745823206063" duration="25747000" />
     </task>
     <servers />
   </component>
