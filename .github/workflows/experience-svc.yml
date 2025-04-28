@@ -2,10 +2,10 @@ name: Experience Service
 
 on:
   push:
-    paths:
-      - experience-svc/**
     branches:
       - 'experience-svc'
+    paths:
+      - 'experience-svc/**'
 
 jobs:
   build:
